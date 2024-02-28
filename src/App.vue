@@ -1,7 +1,10 @@
 <script>
+import AppTitle from './components/AppTitle.vue';
 
 export default{
-
+  components: {
+    AppTitle,
+  },
 }
 
 </script>
@@ -9,11 +12,12 @@ export default{
 
 <template>
 
-  <h1>Hello World!</h1>
+  <AppTitle></AppTitle>
 
 </template>
 
 
 <style>
+
 
 </style>
