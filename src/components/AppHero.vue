@@ -21,9 +21,10 @@ export default {
 
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. .
-
+            
             <button>Learn more</button>
         </p>
+        
 
     </div>
 
@@ -33,7 +34,7 @@ export default {
 
 .container{
     padding: 15px;
-    margin: 50px auto 0;
+    margin: auto 0;
     
     width: 1000px;
     height: 300px;
